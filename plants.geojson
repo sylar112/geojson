@@ -1,4 +1,71 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.96454,
+                    55.563768
+                ]
+            },
+            "properties": {
+                "name": "Смородина чёрная",
+                "description": "{{https://i.ibb.co/k2yxh97H/temp-image.jpg|300}}\n",
+                "_umap_options": {
+                    "color": "ForestGreen",
+                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.400288,
+                    56.078692
+                ]
+            },
+            "properties": {
+                "name": "Чёрная смородина",
+                "description": "{{https://i.ibb.co/ZpjYFHv3/temp-image.jpg|300}}\n",
+                "_umap_options": {
+                    "color": "ForestGreen",
+                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.8,
+                    55.6
+                ]
+            },
+            "properties": {
+                "name": "Чёрная смородина",
+                "description": "{{https://i.ibb.co/mrtTzfJq/temp-image.jpg|300}}\n",
+                "_umap_options": {
+                    "color": "ForestGreen",
+                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        }
+    ]
 }
