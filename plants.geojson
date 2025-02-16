@@ -88,6 +88,28 @@
                     "labelDirection": "right"
                 }
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.414636,
+                    55.757477
+                ]
+            },
+            "properties": {
+                "name": "Яблоня",
+                "description": "{{https://i.ibb.co/0jMcj4d4/temp-image.jpg|300}}\n1)Русские названия: Яблоня\n2)Общая информация: Яблоня - это дерево с сочными плодами (яблоками), обычно округлой формы, с гладкой кожицей и хрустящей мякотью.\n3)Произрастает: Широко распространена в умеренном климате Северного полушария.\n4)Применение: Употребляется в пищу. Не ядовита.\n5)Дополнительно: Существуют тысячи сортов яблонь, отличающихся вкусом, цветом и размером плодов.",
+                "_umap_options": {
+                    "color": "ForestGreen",
+                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
         }
     ]
 }
