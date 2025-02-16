@@ -50,6 +50,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    37.353434,
+                    55.663768
+                ]
+            },
+            "properties": {
+                "name": "Лещина обыкновенная",
+                "description": "{{https://i.ibb.co/4Rs0TDJq/temp-image.jpg|300}}\n1)Русские названия: Лещина обыкновенная, Орешник\n2)Общая информация: Листопадное дерево или кустарник с округлой кроной и овальными листьями с зубчатым краем.\n3)Произрастает: В Европе и Западной Азии, в лесах и на опушках.\n4)Применение: Плоды съедобны, древесина используется в ремеслах. Не ядовито.\n5)Дополнительно: Орехи лещины являются важным источником пищи для диких животных.",
+                "_umap_options": {
+                    "color": "ForestGreen",
+                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     37.235317,
                     56.070838
                 ]
