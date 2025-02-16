@@ -1,27 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.243018,
-                    55.79841
-                ]
-            },
-            "properties": {
-                "name": "Вешенка обыкновенная",
-                "description": "{{https://i.ibb.co/gbgkXDDM/temp-image.jpg|300}}\n1)Русские названия: Вешенка обыкновенная\n2)Общая информация: Вешенка обыкновенная — это съедобный гриб с мясистой шляпкой, часто серого или коричневого цвета, и короткой ножкой.\n3)Произрастает: На мертвой древесине лиственных деревьев, в лесах и посадках умеренного климата.\n4)Применение: Используется в кулинарии, не ядовит. Культивируется в промышленных масштабах.\n5)Дополнительно: Вешенка обладает полезными свойствами и является популярным продуктом питания.",
-                "_umap_options": {
-                    "color": "SaddleBrown",
-                    "iconUrl": "/uploads/pictogram/convenience.svg",
-                    "iconClass": "Drop",
-                    "showLabel": true,
-                    "labelInteractive": true,
-                    "labelDirection": "right"
-                }
-            }
-        }
-    ]
+    "features": []
 }
