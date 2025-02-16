@@ -28,6 +28,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    37.38041,
+                    55.777159
+                ]
+            },
+            "properties": {
+                "name": "Волоконница землистая",
+                "description": "{{https://i.ibb.co/HLPFc85R/temp-image.jpg|300}}\n1)Русские названия: Волоконница землистая\n2)Общая информация: Это мелкий гриб с конической или колокольчатой шляпкой, обычно коричневого цвета, и тонкой ножкой.\n3)Произрастает: В хвойных и лиственных лесах, на почве, среди травы и мха.\n4)Применение: Ядовит, содержит мускарин. Употребление вызывает отравление.\n5)Дополнительно: Внешне схож с некоторыми съедобными грибами, что делает его опасным.",
+                "_umap_options": {
+                    "color": "SaddleBrown",
+                    "iconUrl": "/uploads/pictogram/convenience.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     37.153434,
                     55.963768
                 ]
