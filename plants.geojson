@@ -154,6 +154,28 @@
                     "labelDirection": "right"
                 }
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.341733,
+                    55.92085
+                ]
+            },
+            "properties": {
+                "name": "Тыква",
+                "description": "{{https://i.ibb.co/6SS28Z5/temp-image.jpg|300}}\n1)Русские названия: тыква\n2)Общая информация: Тыква — это однолетнее растение с крупными плодами разнообразной формы и цвета. Имеет толстый стебель и большие листья.\n3)Произрастает: в огородах, полях, в регионах с умеренным и теплым климатом.\n4)Применение: в кулинарии, медицине, как декоративное растение. Не ядовита.\n5)Дополнительно: Существуют сотни сортов тыквы, отличающихся по вкусу, размеру и форме.",
+                "_umap_options": {
+                    "color": "ForestGreen",
+                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
         }
     ]
 }
