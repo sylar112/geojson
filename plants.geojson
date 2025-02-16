@@ -6,6 +6,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    37.235317,
+                    56.070838
+                ]
+            },
+            "properties": {
+                "name": "Лисичка обыкновенная",
+                "description": "{{https://i.ibb.co/spdSVp56/temp-image.jpg|300}}\n1)Русские названия: Лисичка обыкновенная, лисичка настоящая\n2)Общая информация: Плодовое тело жёлтое или оранжевое, шляпка волнистая, переходящая в ножку. Мякоть плотная, с фруктовым запахом и острым вкусом.\n3)Произрастает: В хвойных и смешанных лесах, под елями и соснами, группами.\n4)Применение: Съедобный гриб, используется в кулинарии. Не ядовит.\n5)Дополнительно: Содержит витамины и микроэлементы, полезные для организма.",
+                "_umap_options": {
+                    "color": "SaddleBrown",
+                    "iconUrl": "/uploads/pictogram/convenience.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     37.96454,
                     55.563768
                 ]
