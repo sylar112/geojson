@@ -6,6 +6,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    31.153434,
+                    50.963768
+                ]
+            },
+            "properties": {
+                "name": "Агава королевы виктории",
+                "description": "{{https://i.ibb.co/63zk0Pr/temp-image.jpg|300}}\n1)Русские названия: Агава королевы Виктории\n2)Общая информация: Это суккулентное растение с плотными, мясистыми листьями, образующими розетку. Листья имеют белые полосы и темные шипы по краям.\n3)Произрастает: Встречается в северо-восточной Мексике, в штате Нуэво-Леон.\n4)Применение: Используется в декоративных целях. Не ядовита.\n5)Дополнительно: Считается одним из самых красивых видов агавы.",
+                "_umap_options": {
+                    "color": "ForestGreen",
+                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     37.497375,
                     55.87213
                 ]
