@@ -50,6 +50,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    37.284173,
+                    55.728655
+                ]
+            },
+            "properties": {
+                "name": "Клён",
+                "description": "{{изображение отсутствует|300}}\nбольшой клён",
+                "_umap_options": {
+                    "color": "ForestGreen",
+                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     37.153434,
                     55.963768
                 ]
