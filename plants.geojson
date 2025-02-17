@@ -14,8 +14,8 @@
                 "name": "Дуб",
                 "description": "большой дуб",
                 "_umap_options": {
-                    "color": "ForestGreen",
-                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "color": "LightGoldenRodYellow",
+                    "iconUrl": "https://files.catbox.moe/faakdn.png",
                     "iconClass": "Drop",
                     "showLabel": true,
                     "labelInteractive": true,
@@ -36,8 +36,8 @@
                 "name": "Клён",
                 "description": "1)Русские названия: Клён\n2)Общая информация: Клён — это листопадное дерево, часто с лопастными листьями и крылатыми плодами-крылатками. Осенью листья клёна часто становятся ярко-красными или жёлтыми.\n3)Произрастает: В умеренном поясе Северного полушария, в лесах и парках.\n4)Применение: В мебельном производстве, строительстве, как декоративное растение. Не ядовит.\n5)Дополнительно: Кленовый лист является символом Канады.",
                 "_umap_options": {
-                    "color": "ForestGreen",
-                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "color": "LightGoldenRodYellow",
+                    "iconUrl": "https://files.catbox.moe/faakdn.png",
                     "iconClass": "Drop",
                     "showLabel": true,
                     "labelInteractive": true,
@@ -58,8 +58,8 @@
                 "name": "Лисичка обыкновенная",
                 "description": "{{https://i.ibb.co/mFPdb9vK/temp-image.jpg|300}}\n1)Русские названия: Лисичка обыкновенная, Лисичка настоящая\n2)Общая информация: Шляпка жёлтая, волнистая, переходит в ножку. Мякоть плотная, с фруктовым запахом.\n3)Произрастает: В хвойных и смешанных лесах, под елями, соснами и берёзами.\n4)Применение: Съедобный гриб, используется в кулинарии. Не ядовит.\n5)Дополнительно: Содержит витамины и микроэлементы, полезные для здоровья.",
                 "_umap_options": {
-                    "color": "SaddleBrown",
-                    "iconUrl": "/uploads/pictogram/convenience.svg",
+                    "color": "#6f6350",
+                    "iconUrl": "https://files.catbox.moe/qvxtuy.png",
                     "iconClass": "Drop",
                     "showLabel": true,
                     "labelInteractive": true,
@@ -80,8 +80,8 @@
                 "name": "Ольха",
                 "description": "1)Русские названия: Ольха, Елоха, Алешина, Альха\n2)Общая информация: Ольха — это дерево или кустарник с гладкой корой, овальными листьями и серёжками. Высота дерева обычно достигает 20-30 метров.\n3)Произрастает: В умеренном климате Северного полушария, по берегам рек, в низинах и влажных лесах.\n4)Применение: В медицине, строительстве, для дубления кож. Не ядовита, но требует обработки.\n5)Дополнительно: Ольха улучшает почву, фиксируя азот, и быстро растёт, что делает её ценной для лесовосстановления.",
                 "_umap_options": {
-                    "color": "ForestGreen",
-                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "color": "LightGoldenRodYellow",
+                    "iconUrl": "https://files.catbox.moe/faakdn.png",
                     "iconClass": "Drop",
                     "showLabel": true,
                     "labelInteractive": true,
