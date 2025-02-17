@@ -1,4 +1,27 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.440589,
+                    56.161829
+                ]
+            },
+            "properties": {
+                "name": "Пшено",
+                "description": "{{|300}}\n1)Русские названия: Пшено, Просо\n2)Общая информация: Пшено - крупа из зерен проса. Зерна мелкие, круглые, цвет от светло-жёлтого до ярко-жёлтого.\n3)Произрастает: В Азии, Африке, Европе и на постсоветском пространстве, в засушливом климате.\n4)Применение: Используется в пищу для приготовления каш, супов. Не ядовито.\n5)Дополнительно: Пшено богато витаминами группы B, магнием, калием и другими полезными веществами.",
+                "_umap_options": {
+                    "color": "ForestGreen",
+                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        }
+    ]
 }
