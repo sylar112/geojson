@@ -6,6 +6,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    37.294443,
+                    55.910843
+                ]
+            },
+            "properties": {
+                "name": "Крыжовник",
+                "description": "{{https://i.ibb.co/Q315RYWk/temp-image.jpg|300}}\n1)Русские названия: Крыжовник\n2)Общая информация: Крыжовник - кустарник с колючими ветвями. Ягоды округлые, разных цветов, с гладкой или опушенной кожицей.\n3)Произрастает: В Европе, Северной Африке, Азии, в садах и дикой природе.\n4)Применение: Употребляется в пищу в свежем и переработанном виде. Не ядовит.\n5)Дополнительно: Крыжовник богат витаминами и минералами, полезен для здоровья.",
+                "_umap_options": {
+                    "color": "ForestGreen",
+                    "iconUrl": "/uploads/pictogram/garden.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     37.345013,
                     55.909961
                 ]
