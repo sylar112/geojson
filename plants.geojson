@@ -28,6 +28,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    55.93526,
+                    37.438295
+                ]
+            },
+            "properties": {
+                "name": "Опёнок осенний",
+                "description": "{{https://i.ibb.co/KR9kGwK/temp-image.jpg|300}}\n1)Русские названия: Опёнок осенний, опёнок настоящий\n2)Общая информация: Опёнок осенний - это съедобный гриб с коричневой шляпкой и тонкой ножкой, растущий группами на деревьях.\n3)Произрастает: На пнях и стволах лиственных и хвойных деревьев, в лесах умеренного пояса.\n4)Применение: Употребляется в пищу после отваривания. Съедобен, но условно.\n5)Дополнительно: Может вызывать расстройство желудка при неправильной обработке.",
+                "_umap_options": {
+                    "color": "SaddleBrown",
+                    "iconUrl": "/uploads/pictogram/convenience.svg",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     37.345013,
                     55.909961
                 ]
