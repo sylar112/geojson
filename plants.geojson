@@ -6,6 +6,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    36.81563,
+                    55.646599
+                ]
+            },
+            "properties": {
+                "name": "Берёза",
+                "description": "{{https://i.ibb.co/Y77PP6ch/temp-image.jpg|300}}\n1)Русские названия: Берёза, Берёза белая, Берёза бумажная\n2)Общая информация: Лиственное дерево с характерной белой, часто отслаивающейся корой и тонкими ветвями. Высота обычно до 20-30 метров.\n3)Произрастает: В умеренном климате Северного полушария, в лесах и рощах.\n4)Применение: В строительстве, медицине, для изготовления бумаги. Не ядовита.\n5)Дополнительно: Берёзовая кора использовалась для письма и изготовления берестяных грамот.",
+                "_umap_options": {
+                    "color": "DarkSlateGray",
+                    "iconUrl": "https://i.ibb.co/qY5T5XDC/ututdd.png",
+                    "iconClass": "Default",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     37.935791,
                     56.072043
                 ]
