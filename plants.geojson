@@ -6,6 +6,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    30.632629,
+                    58.607194
+                ]
+            },
+            "properties": {
+                "name": "Белый гриб",
+                "description": "{{https://i.ibb.co/fzK9JpSN/temp-image.jpg|300}}\n1)Русские названия: Белый гриб, Боровик\n2)Общая информация: Крупный гриб с толстой ножкой и мясистой шляпкой, цвет от белого до коричневого.\n3)Произрастает: В лиственных и хвойных лесах умеренного пояса.\n4)Применение: Съедобный, используется в кулинарии в разных видах.\n5)Дополнительно: Считается одним из самых ценных и вкусных грибов.",
+                "_umap_options": {
+                    "color": "#6f6350",
+                    "iconUrl": "https://i.ibb.co/9XrNZ7Z/qvxtuy.png",
+                    "iconClass": "Drop",
+                    "showLabel": true,
+                    "labelInteractive": true,
+                    "labelDirection": "right"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     36.81563,
                     55.646599
                 ]
